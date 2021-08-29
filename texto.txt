@@ -1,5 +1,7 @@
 Esta es la historia de como aprenderé a usar git
 
-Git es la herramienta de control de versiones más poderosa
+Git es la herramienta de control de versiones más poderosa del mundo
 
 Los verdaderos Dev deben aprender a usarla
+
+Este es un nuevo cambio
